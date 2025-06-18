@@ -1,0 +1,1 @@
+export { numberToChinese } from './numberToChinese';
