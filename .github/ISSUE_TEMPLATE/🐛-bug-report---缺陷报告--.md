@@ -1,8 +1,8 @@
 ---
 name: "\U0001F41B Bug Report / 缺陷报告  "
-about: Create a report to help us improve/创建一个缺陷反馈报告助力功能优化
+about: Create a report to help us improve/反馈缺陷、问题
 title: "\U0001F41B Bug Report Title/ 缺陷报告标题"
-labels: ''
+labels: "\U0001F41B bug"
 assignees: ''
 
 ---
