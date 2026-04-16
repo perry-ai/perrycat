@@ -88,7 +88,7 @@ Reviewers：指定团队成员审查代码。
 2. nodejs 16+ / 18 / 20
 3. 后端1：Express.js，或者类似的主流的可以实现后端类功能的框架
 4. 考虑采用monorepo
-5. 后端2：java 8 + springboot，同步需要了解总结 注册中心、配置中心、redis、mq等
+5. 后端2：java 8 + springboot，同步需要总结 注册中心、配置中心、redis、mq等
 6. 需要支持markdown写作，例如mdx
 7. （非必要）如需数据库，考虑mysql + PostgreSQL
 8. （非必要）可以考虑docker部署
